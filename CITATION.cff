@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use HausaSafe, please cite it using this metadata."
+authors:
+  - family-names: Usman
+    given-names: Hadiya
+    orcid: ""
+    affiliation: "New Incentives / NudgeInnovation Hub/ African Institute for Artificial Intelligence"
+title: "HausaSafe: An Open-Source Hausa Language AI Safety Evaluation Suite"
+version: 0.1.0
+date-released: 2026-06-23
+url: "https://github.com/Hadiya2/HausaSafe"
+license: CC-BY-4.0
