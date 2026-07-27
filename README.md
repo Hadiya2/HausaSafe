@@ -35,8 +35,8 @@ project, I discovered that foundational AI safety concepts have no Hausa equival
 - **Alignment**, **misalignment**, **autonomous agent**, **existential risk** — all absent.
 
 This is not a translation problem. It is a safety problem. AI systems are already being
-deployed in Hausa-speaking communities — in health surveillance, financial monitoring,
-and education — without safety evaluations that account for how Hausa speakers
+deployed in Hausa-speaking communities in health surveillance, financial monitoring,
+and education without safety evaluations that account for how Hausa speakers
 understand, express, and respond to AI interactions. HausaSafe is built to make those
 evaluations possible.
 
