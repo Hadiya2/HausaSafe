@@ -93,6 +93,5 @@ credit to Hadiya Usman.
 ---
 
 *HausaSafe is part of a broader research programme on AI safety and governance
-in northern Nigeria. For related work, see the [EA Forum post]([PASTE_ACTUAL_EA_FORUM_POST_URL_HERE](https://forum.effectivealtruism.org/posts/utZcwXd65yggubonn/epistemic-exclusion-of-the-hausa-language-in-ai-safety)) and the
-[African Institute for Artificial Intelligence](https://ai-4ai.org/)
-).*
+in northern Nigeria. For related work, see the [EA Forum post](https://forum.effectivealtruism.org/posts/utZcwXd65yggubonn/epistemic-exclusion-of-the-hausa-language-in-ai-safety) and the
+[African Institute for Artificial Intelligence](https://ai-4ai.org/).*
