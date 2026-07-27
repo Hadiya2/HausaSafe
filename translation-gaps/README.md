@@ -55,10 +55,9 @@ Each entry records: the English term, its meaning, the current Hausa status, and
 
 **English meaning:** Fake but realistic images, audio, or video generated or altered by AI to make it appear someone said or did something they didn't.
 
-**Hausa status:** Approximated — no single word exists, but the concept can be explained with a full sentence, e.g. describing it as *"an image, sound, or video that is not real, but made by a computer to look and sound like it is real."*
+**Hausa status:** Approximated — no single word exists, but the concept can be explained with a full sentence, e.g., describing it as *"an image, sound, or video that is not real, but made by a computer to look and sound like it is real."*
 
 **Why this matters:** Because there's no single term, every explanation requires a full descriptive sentence — this makes the concept harder to reference quickly in warnings, public health messaging, or community discussions where brevity matters (e.g., radio announcements, SMS alerts).
-
 
 ---
 
@@ -68,10 +67,10 @@ The following terms are known gaps but have not yet been fully written up. Contr
 
 - Hallucination (AI producing false information confidently)
 - Red-teaming / adversarial testing
-- Training data / model training
+- Training data/model training
 - Bias (in the AI/ML sense, distinct from everyday "bias")
-- Guardrails / safety filters
+- Guardrails/safety filters
 
 ---
 
-*Part of the [HausaSafe](https://github.com/Hadiya2/HausaSafe) project. See the main [README](../README.md) for project background, or read the full argument in [Epistemic Exclusion of the Hausa Language in AI Safety](LINK_TO_EA_FORUM_POST).*
+*Part of the [HausaSafe](https://github.com/Hadiya2/HausaSafe) project. See the main [README](../README.md) for project background.*
