@@ -18,7 +18,7 @@ in Hausa, provides translated evaluation prompts for testing AI model behaviour,
 offers a growing glossary of AI safety terminology in Hausa with cultural context notes.
 
 Hausa is spoken by millions of people across northern Nigeria, Niger, and the broader
-Sahel — one of the largest language communities in Africa. It has almost no
+Sahel,  one of the largest language communities in Africa. It has almost no
 representation in AI safety evaluations, red-teaming exercises, or governance frameworks.
 HausaSafe is built to close that gap.
 
@@ -44,23 +44,23 @@ For the full argument, read my EA Forum post: [Epistemic Exclusion of the Hausa 
 
 ---
 
-## What HausaSafe will contain
+## What HausaSafe contains
+
+## What HausaSafe contains
 
 | Folder | Contents | Status |
 |---|---|---|
-| `/glossary` | Hausa translations of AI safety terms with cultural context notes | 🔄 In development |
-| `/translation-gaps` | Documented concepts with no Hausa equivalent, with approximations used | 🔄 In development |
-| `/evaluation-prompts` | Hausa-language prompts for testing AI model behaviour and safety | 🔄 In development |
-| `/community` | Contribution guidelines for Hausa speakers | 🔄 In development |
-| `/docs` | Research papers and policy briefs | 🔄 In development |
-
----
+| `/glossary` | Hausa translations of AI safety terms with cultural context notes | 🔄 Growing |
+| `/translation-gaps` | Documented concepts with no Hausa equivalent, with approximations used | ✅ 5 terms documented |
+| `/evaluation-prompts` | Hausa-language prompts for testing AI model behaviour and safety | ✅ 49 prompts (18 bilingual, 31 awaiting translation) |
+| `/community` | Contribution guidelines for Hausa speakers | ✅ Live |
+| `/docs` | Research papers and policy briefs | ✅ Live |
 
 ## How to contribute
 
 HausaSafe is built for and with the Hausa-speaking community. If you speak Hausa and
-want to contribute — whether you are a linguist, a health worker, a teacher, a student,
-or a community member — your knowledge is needed here.
+want to contribute, whether you are a linguist, a health worker, a teacher, a student,
+or a community member,  your knowledge is needed here.
 
 Contribution guidelines are coming soon. In the meantime, open an Issue on this
 repository with your suggestion, or contact me directly on LinkedIn.
